@@ -1,0 +1,11 @@
+*.o
+*.a
+
+.vscode
+.idea
+*~
+
+vgcore.*
+*.pdf
+solver
+generator/generator
